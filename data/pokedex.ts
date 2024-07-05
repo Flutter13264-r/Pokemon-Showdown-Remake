@@ -10378,7 +10378,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		num: 578,
 		name: "Duosion",
 		types: ["Psychic"],
-		baseStats: {hp: 65, atk: 40, def: 50, spa: 125, spd: 60, spe: 30},
+		baseStats: {hp: 65, atk:30, def: 50, spa: 156, spd: 60, spe: 30},
 		abilities: {0: "Overcoat", 1: "Magic Guard", H: "Regenerator"},
 		heightm: 0.6,
 		weightkg: 8,
